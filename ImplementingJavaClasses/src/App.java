@@ -7,5 +7,4 @@ public class App {
         myAccount.withdraw(5000);
         System.out.println("Balance: " + myAccount.getBalance());
     }
-    
 }
